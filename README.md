@@ -1,7 +1,8 @@
 # 🌸 STUDI _IN SILICO_ ANALISIS FILOGENETIK ANGGREK *Vanda* spp. MENGGUNAKAN GEN matK, rbcL, DAN trnL
 
-> Studi kekerabatan molekuler pada anggrek genus *Vanda* berbasis sekuens DNA dengan perangkat lunak MEGA (Molecular Evolutionary Genetics Analysis)
-📌 **Referensi Utama:** Metodologi dan acuan dasar analisis filogenetik dalam studi ini mengacu pada [Sahadeva & Pertiwi (2023)](##-referensi-utama) dan studi barcoding Orchidaceae terkait.
+> Analisis ini bertujuan mengungkap potensi gen *matK*, *rbcL*, *trnL* sebagai penanda DNA barcode molekuler pada anggrek spesies *Vanda* beserta hubungan evolusinya dalam Orchidaceae secara *in silico*.
+
+📌 **Referensi Utama:** Metodologi dan acuan dasar analisis filogenetik dalam studi ini mengacu pada [Sahadeva & Pertiwi (2023)](#-referensi-utama) dan studi barcoding Orchidaceae terkait.
 ---
 
 ## 📖 Pendahuluan
