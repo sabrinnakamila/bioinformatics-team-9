@@ -48,8 +48,8 @@
 1. Buka MEGA 12 → File → Open a File/Session
 2. Import file FASTA > Align
 3. Jalankan alignment: Alignment > Align by ClustalW
-4. Trimming_ bagian awal dan akhir sekuens untuk menyeragamkan panjang basa
-5. Ekspor hasil: Data > Export Alignment > MEGA Format (.meg)
+4. Trimming bagian awal dan akhir sekuens untuk menyeragamkan panjang basa
+5. Ekspor hasil: Data > Export Alignment > MEGA Format (`.meg`)
 
 ### Langkah 3 — Rekonstruksi Pohon Filogenetik
 
@@ -71,22 +71,19 @@
 
 ### Pohon Filogenetik *Vanda* spp. - Marker matK
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20matK.png)
-**Gambar 1. Pohon filogenetik _Vanda_ spp. berdasarkan sekuens matK**
 
 ### Pohon Filogenetik *Vanda* spp. - Marker rbcL
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
-**Gambar 2. Pohon filogenetik _Vanda_ spp. berdasarkan sekuens rbcL**
 
 ### Pohon Filogenetik *Vanda* spp. - Marker trnL
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
-**Gambar 3. Pohon filogenetik _Vanda_ spp. berdasarkan sekuens trnL**
 
 ## 📄 Dokumen
 
 | Dokumen | Format | Unduh |
 |---------|--------|-------|
-| 📃 Makalah — Analisis Filogenetik *Vanda* spp. | PDF | [📥 Unduh Makalah](dokumen/makalah_filogenetik_vanda.pdf) |
-| 🖼️ Poster Ilmiah | PDF | [📥 Unduh Poster](dokumen/poster_filogenetik_vanda.pdf) |
+| 📃 Makalah | PDF | [Unduh Makalah](Files/Paper) |
+| 🖼️ Presentation [Unduh Poster](Files/Presentation) |
 
 ---
 
