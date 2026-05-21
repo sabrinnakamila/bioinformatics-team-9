@@ -69,13 +69,13 @@
 
 ## 📈🌳 Hasil Analisis
 
-### Pohon Filogenetik *Vanda* spp. - Marker matK
+### Pohon Filogenetik *Vanda* spp. - Marker _matK_
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20matK.png)
 
-### Pohon Filogenetik *Vanda* spp. - Marker rbcL
+### Pohon Filogenetik *Vanda* spp. - Marker _rbcL_
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
 
-### Pohon Filogenetik *Vanda* spp. - Marker trnL
+### Pohon Filogenetik *Vanda* spp. - Marker _trnL_
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
 
 ## 📄 Dokumen
@@ -89,6 +89,8 @@
 
 ## 🔬 Referensi
 
-- 
+- CBOL Plant Working Group. (2009). A DNA barcode for land plants. *Proceedings of the National Academy of Sciences*, 106(46), 19394-19399.
+- Tamura, K., Stecher, G., & Kumar, S. (2021). MEGA11: Molecular Evolutionary Genetics Analysis Version 11. *Molecular Biology and Evolution*, 38(7), 3022-3027.
+- ...
 
 ---
