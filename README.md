@@ -1,7 +1,7 @@
 # 🌸 STUDI _IN SILICO_ ANALISIS FILOGENETIK ANGGREK *Vanda* spp. MENGGUNAKAN GEN matK, rbcL, DAN trnL
 
 > Studi kekerabatan molekuler pada anggrek genus *Vanda* berbasis sekuens DNA dengan perangkat lunak MEGA (Molecular Evolutionary Genetics Analysis)
-
+📌 **Referensi Utama:** Metodologi dan acuan dasar analisis filogenetik dalam studi ini mengacu pada [Sahadeva & Pertiwi (2023)](#-referensi-utama) dan studi barcoding Orchidaceae terkait.
 ---
 
 ## 📖 Pendahuluan
@@ -78,7 +78,7 @@
 ### Pohon Filogenetik *Vanda* spp. - Marker _trnL_
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
 
-## 📄 Dokumen
+## 📄 Dokumen Pendukung
 
 | Dokumen | Format | Unduh |
 |---------|--------|-------|
@@ -89,6 +89,9 @@
 
 ## 🔬 Referensi
 
+### 📌Referensi Utama
+> Sahadeva, M.L. and Pertiwi, N.P.D. (2023). Konstruksi Pohon Filogenetik Spesies dalam Famili Orchidaceae Berdasarkan Marka Gen matK Kloroplas: Studi in Silico. _Wahana Matematika dan Sains: Jurnal Matematika, Sains, dan Pembelajarannya_, 17(3), pp.12-27. https://doi.org/10.23887/wms.v17i3.87986
+### 📚Referensi Pendukung
 - CBOL Plant Working Group. (2009). A DNA barcode for land plants. *Proceedings of the National Academy of Sciences*, 106(46), 19394-19399.
 - Tamura, K., Stecher, G., & Kumar, S. (2021). MEGA11: Molecular Evolutionary Genetics Analysis Version 11. *Molecular Biology and Evolution*, 38(7), 3022-3027.
 - ...
