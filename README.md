@@ -83,8 +83,9 @@
 
 | Dokumen | Format | Unduh |
 |---------|--------|-------|
-| 📃 Makalah | PDF | [Unduh Makalah](Files/Paper) |
-| 🖼️ Presentation | PDF | [Unduh Poster](Files/Presentation) |
+| 📃 Makalah | PDF | [Unduh Makalah](Files/Paper.pdf) |
+| 🖼️ Presentation | PDF | [Unduh Presentasi](Files/Presentation.pdf) |
+| 🖼️ Poster | PNG | [Unduh Poster](Files/Poster.png) |
 
 ---
 
@@ -93,8 +94,7 @@
 ### 📌Referensi Utama
 > Sahadeva, M.L. and Pertiwi, N.P.D. (2023). Konstruksi Pohon Filogenetik Spesies dalam Famili Orchidaceae Berdasarkan Marka Gen matK Kloroplas: Studi in Silico. _Wahana Matematika dan Sains: Jurnal Matematika, Sains, dan Pembelajarannya_, 17(3), pp.12-27. https://doi.org/10.23887/wms.v17i3.87986
 ### 📚Referensi Pendukung
-- CBOL Plant Working Group. (2009). A DNA barcode for land plants. *Proceedings of the National Academy of Sciences*, 106(46), 19394-19399.
+- CBOL Plant Working Group. (2009). A DNA barcode for land plants. _Proceedings of the National Academy of Sciences of the United States of America_, 106(31), 12794–12797. https://doi.org/10.1073/pnas.0905845106
 - Tamura, K., Stecher, G., & Kumar, S. (2021). MEGA11: Molecular Evolutionary Genetics Analysis Version 11. *Molecular Biology and Evolution*, 38(7), 3022-3027.
-- ...
 
 ---
