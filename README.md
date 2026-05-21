@@ -1,27 +1,21 @@
-# 🌸 STUDI IN SILICO ANALISIS FILOGENETIK ANGGREK *Vanda* spp. MENGGUNAKAN GEN matK, rbcL, DAN trnL
+# 🌸 STUDI _IN SILICO_ ANALISIS FILOGENETIK ANGGREK *Vanda* spp. MENGGUNAKAN GEN matK, rbcL, DAN trnL
 
 > Studi kekerabatan molekuler pada anggrek genus *Vanda* berbasis sekuens DNA dengan perangkat lunak MEGA (Molecular Evolutionary Genetics Analysis)
 
 ---
 
 ## 📖 Pendahuluan
-
-### *Vanda* spp.
-
-blablabla
-
 ### Filogenetik dengan MEGA
 
 **Filogenetik** adalah ilmu yang mempelajari hubungan evolusioner antar organisme. Analisis filogenetik molekuler dilakukan dengan membandingkan sekuens DNA (seperti **ITS, matK, rbcL**) dari berbagai spesies untuk membangun **pohon filogenetik** (*phylogenetic tree*).
 
 **MEGA** (*Molecular Evolutionary Genetics Analysis*) adalah perangkat lunak bioinformatika yang digunakan secara luas untuk:
 - Penyelarasan sekuens (*multiple sequence alignment*)
-- Rekonstruksi pohon filogenetik (Neighbor-Joining, Maximum Likelihood, UPGMA)
+- Rekonstruksi pohon filogenetik (Neighbor-Joining, Maximum Likelihood, UPGMA, etc.)
 - Analisis jarak genetik antar takson
 - Uji statistik bootstrap untuk mengevaluasi keandalan topologi pohon
 
-Analisis ini bertujuan mengungkap hubungan kekerabatan antar spesies *Vanda* dan posisinya dalam konteks evolusi Orchidaceae secara lebih luas.
-
+> Analisis ini bertujuan mengungkap potensi gen _matK, rbcL_, dan _trnL_ sebagai penanda DNA barcode molekuler pada anggrek spesies *Vanda* dan hubungan evolusinya dalam Orchidaceae secara lebih luas secara _in Silico_
 ---
 
 ## 👥 Anggota Kelompok
@@ -43,15 +37,11 @@ Analisis ini bertujuan mengungkap hubungan kekerabatan antar spesies *Vanda* dan
 - Sekuens DNA dalam format `.fasta`
 - Akses internet untuk mengunduh sekuens dari NCBI dan EBI
 
----
-
 ### Langkah 1 — Persiapan Sekuens
 
 1. Buka NCBI (https://www.ncbi.nlm.nih.gov/) atau EBI (https://www.ebi.ac.uk/)
 2. Cari sekuens gen _matK, rbcL_, dan _trnL_ untuk 10 spesies _Vanda_ + outgroup _Phalaenopsis deliciosa_
 3. Unduh semua sekuens dalam format FASTA
-
----
 
 ### Langkah 2 — Multiple Sequence Alignment
 
@@ -61,8 +51,6 @@ Analisis ini bertujuan mengungkap hubungan kekerabatan antar spesies *Vanda* dan
 4. Trimming_ bagian awal dan akhir sekuens untuk menyeragamkan panjang basa
 5. Ekspor hasil: Data > Export Alignment > MEGA Format (.meg)
 
----
-
 ### Langkah 3 — Rekonstruksi Pohon Filogenetik
 
 1. Dari menu utama MEGA 12, klik Phylogeny > Construct/Test Neighbor-Joining Tree
@@ -71,8 +59,6 @@ Analisis ini bertujuan mengungkap hubungan kekerabatan antar spesies *Vanda* dan
    - Model: Kimura 2-Parameter
    - Bootstrap replications: 1000
 4. Klik Compute dan tunggu proses selesai
-
----
 
 ### Langkah 4 — Visualisasi dan Ekspor Pohon
 
@@ -95,8 +81,6 @@ Analisis ini bertujuan mengungkap hubungan kekerabatan antar spesies *Vanda* dan
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
 **Gambar 3. Pohon filogenetik _Vanda_ spp. berdasarkan sekuens trnL**
 
----
-
 ## 📄 Dokumen
 
 | Dokumen | Format | Unduh |
@@ -108,9 +92,6 @@ Analisis ini bertujuan mengungkap hubungan kekerabatan antar spesies *Vanda* dan
 
 ## 🔬 Referensi
 
-- Kumar, S., Stecher, G., Li, M., Knyaz, C., & Tamura, K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. *Molecular Biology and Evolution*, 35(6), 1547–1549.
-- Christenson, E. A. (1994). *Vanda* Miss Joaquim — is it a natural hybrid? *American Orchid Society Bulletin*, 63, 1030–1038.
-- NCBI GenBank. (2024). *National Center for Biotechnology Information*. https://www.ncbi.nlm.nih.gov
-- Chase, M. W., et al. (2015). An updated classification of Orchidaceae. *Botanical Journal of the Linnean Society*, 177(2), 151–174.
+- 
 
 ---
