@@ -2,7 +2,7 @@
 
 > Analisis ini bertujuan mengungkap potensi gen *matK*, *rbcL*, *trnL* sebagai penanda DNA barcode molekuler pada anggrek spesies *Vanda* beserta hubungan evolusinya dalam Orchidaceae secara *in silico*.
 
-📌 **Referensi Utama:** Metodologi dan acuan dasar analisis filogenetik dalam studi ini mengacu pada [Sahadeva & Pertiwi (2023)](#-referensi-utama) dan studi barcoding Orchidaceae terkait.
+<sub>📌 **Referensi Utama:** Metodologi dan acuan dasar analisis filogenetik dalam studi ini mengacu pada [Sahadeva & Pertiwi (2023)](#-referensi-utama) dan studi barcoding Orchidaceae terkait. </sub>
 ---
 
 ## 📖 Pendahuluan
