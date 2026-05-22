@@ -77,7 +77,7 @@
 ![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
 
 ### Pohon Filogenetik *Vanda* spp. - Marker _trnL_
-![Pohon filogenetik matK](PhyloTree/Pohon%20filogeni%20rbcL.png)
+![Pohon filogenetik trnL](PhyloTree/Pohon%20filogeni%20trnL.jpeg)
 
 ## 📄 Dokumen Pendukung
 
